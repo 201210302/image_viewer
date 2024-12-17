@@ -1,0 +1,8 @@
+pyexr
+opencv-python
+numpy
+matplotlib
+Pillow
+bs4
+html5lib
+scikit-image
