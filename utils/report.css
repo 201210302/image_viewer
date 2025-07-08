@@ -81,12 +81,12 @@ h2 {
 }
 
 .report-thumb-coffee {
-    width: 144px;
+    width: 100%;
     height: 180px;
 }
 
 .report-thumb-2 {
-    width: 320px;
+    width: 100%;
     height: 180px;
 }
 
@@ -158,7 +158,7 @@ img{
 img.image-display {
     display: block;
     max-width: 100%;
-    height: auto;
+    height: 100%;
     line-height: 0;
     margin-top: 0;
     /*margin-left: auto;*/
