@@ -11,12 +11,17 @@ const data =
                     "image": "GT/01_arcade.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/01_arcade_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/01_arcade_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/01_arcade_out.png"
                 },
@@ -42,12 +47,17 @@ const data =
                     "image": "GT/01_dot1.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/01_dot1_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/01_dot1_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/01_dot1_out.png"
                 },
@@ -74,12 +84,17 @@ const data =
                     "image": "GT/12_barrel.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/12_barrel_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/12_barrel_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/12_barrel_out.png"
                 },
@@ -105,12 +120,17 @@ const data =
                     "image": "GT/atlas.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/atlas_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/atlas_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/atlas_out.png"
                 },
@@ -136,12 +156,17 @@ const data =
                     "image": "GT/kodim05.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/kodim05_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/kodim05_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/kodim05_out.png"
                 },
@@ -168,12 +193,17 @@ const data =
                     "image": "GT/sponza_fabric_green_diff.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/sponza_fabric_green_diff_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/sponza_fabric_green_diff_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/sponza_fabric_green_diff_out.png"
                 },
@@ -198,12 +228,17 @@ const data =
                     "image": "GT/vokselia_spawn.png"
                 },
                 {
+                    "title": "RealESRNET (x2)",
+                    "version": "-",
+                    "image": "RealESRNET/vokselia_spawn_out.png"
+                },
+                {
                     "title": "RealESRGAN (x2)",
                     "version": "-",
                     "image": "RealESRGAN/vokselia_spawn_out.png"
                 },
                 {
-                    "title": "Modified parameter",
+                    "title": "Modified hyperparameters",
                     "version": "-",
                     "image": "Modified parameter/vokselia_spawn_out.png"
                 },
