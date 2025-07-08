@@ -9,7 +9,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00023491.png"
+                    "image": "Input/ILSVRC2012_val_00023491.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
@@ -36,7 +36,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00002349.png"
+                    "image": "Input/ILSVRC2012_val_00002349.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
@@ -63,7 +63,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00022655.png"
+                    "image": "Input/ILSVRC2012_val_00022655.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
@@ -90,7 +90,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00030793.png"
+                    "image": "Input/ILSVRC2012_val_00030793.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
@@ -117,7 +117,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00032728.png"
+                    "image": "Input/ILSVRC2012_val_00032728.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
@@ -144,7 +144,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00019003.png"
+                    "image": "Input/ILSVRC2012_val_00019003.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
@@ -171,7 +171,7 @@ const data =
                 {
                     "title": "Input",
                     "version": "-",
-                    "image": "input/ILSVRC2012_val_00019534.png"
+                    "image": "Input/ILSVRC2012_val_00019534.png"
                 },
                 {
                     "title": "Classical_SR (x2)",
